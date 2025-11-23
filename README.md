@@ -63,8 +63,8 @@ print(Solution)
 <img width="1095" height="497" alt="MA program #5 1" src="https://github.com/user-attachments/assets/b37e0a1d-0f49-43c6-8f24-4ad1473ffa2a" />
 
 ### (ii) To find the LU Decomposition of a matrix
-<img width="1103" height="726" alt="MA program #5 2" src="https://github.com/user-attachments/assets/9983fc42-e608-4d44-8216-d6ea8da74f93" />
-<img width="1096" height="297" alt="MA program #5 3" src="https://github.com/user-attachments/assets/a67b48b5-6f02-4e9a-9ae9-720186c02dd2" />
+<img width="1103" height="726" alt="MA program #5 2" src="https://github.com/user-attachments/assets/359e1a3b-fff7-48d4-b933-d77684ebb14c" />
+<img width="1096" height="297" alt="MA program #5 3" src="https://github.com/user-attachments/assets/6e889a54-d0c7-4295-b6e8-1f17efc2dc7c" />
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
