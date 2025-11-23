@@ -64,7 +64,8 @@ print(Solution)
 
 ### (ii) To find the LU Decomposition of a matrix
 <img width="1103" height="726" alt="MA program #5 2" src="https://github.com/user-attachments/assets/359e1a3b-fff7-48d4-b933-d77684ebb14c" />
-<img width="1096" height="297" alt="MA program #5 3" src="https://github.com/user-attachments/assets/6e889a54-d0c7-4295-b6e8-1f17efc2dc7c" />
+
+<img width="1096" height="297" alt="MA program #5 3" src="https://github.com/user-attachments/assets/a2bb84a0-5d80-4000-8206-b1258472e679" />
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
